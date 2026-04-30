@@ -1,0 +1,6 @@
+streamlit
+selenium
+requests
+httpx
+markdown
+openai
